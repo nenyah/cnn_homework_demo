@@ -160,20 +160,17 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-!/dataset/
-!/imgs/
-!/rows/
-!/img1.png
 
-!/img2.png
-
-!/img3.png
-
-!/img4.png
-
-!/img5.png
-
-!/img6.png
-!/q.jpg
-
-!/question.jpg
+/dataset/
+/fonts/
+/imgs/
+/rows/
+/img1.png
+/img2.png
+/img3.png
+/img4.png
+/img5.png
+/img6.png
+/q.jpg
+/question.jpg
+/.idea/
